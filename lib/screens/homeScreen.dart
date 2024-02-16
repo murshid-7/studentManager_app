@@ -23,7 +23,7 @@ class Homescreen extends StatelessWidget {
           trailing: Icon(Icons.add_task),
         ),
         separatorBuilder: (context, index) => Divider(thickness: 5),
-        itemCount: 10,
+        itemCount: 1,
       )),
     );
   }
